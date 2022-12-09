@@ -32,3 +32,4 @@ print(random.choice(Sentence_starter) + random.choice(character) +
       random.choice(place) + random.choice(second_character) +
 
       random.choice(age) + random.choice(work))
+print("Thank You")
